@@ -1447,12 +1447,12 @@ PRODUCT_PACKAGES += \
     mediatek-telephony-common \
     com.nxp.sems \
     com.android.hotwordenrollment.common.util \
-    android.hardware.neuralnetworks@1.3-service-mtk-dsp-gpu \
-    android.hardware.usb@1.2-service-mediatekv2 \
-    android.hardware.wifi.hostapd \
-    android.hardware.wifi.supplicant \
-    android.hardware.gnss@2.1-service-mediatek \
-    lbs_hidl_service@1.0 \
-    manifest_android.hardware.drm@1.4-service.widevine \
-    manifest_media_c2_V1_1_default \
-    manifest_vendor.xiaomi.hardware.mlipay
+    android.hardware.gnss@2.1-service-mediatek.xml \
+    android.hardware.neuralnetworks@1.3-service-mtk-dsp-gpu.xml \
+    android.hardware.usb@1.2-service-mediatekv2.xml \
+    android.hardware.wifi.hostapd.xml \
+    android.hardware.wifi.supplicant.xml \
+    lbs_hidl_service@1.0.xml \
+    manifest_android.hardware.drm@1.4-service.widevine.xml \
+    manifest_media_c2_V1_1_default.xml \
+    manifest_vendor.xiaomi.hardware.mlipay.xml
